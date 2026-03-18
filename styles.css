@@ -1,0 +1,38 @@
+.textareaWrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.textareaInput {
+  border-radius: 25px;
+  padding: 15px;
+  resize: none;
+  border: 2px solid #000;
+}
+
+.textareaInput:focus {
+  outline: none;
+}
+
+.digits {
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+  margin: 0;
+}
+
+.error {
+  color: red;
+  border: 2px solid red;
+  border-radius: 25px;
+  padding: 15px;
+  resize: none;
+}
+
+.error:focus {
+  outline: none;
+}
+
+.error-symbol {
+  color: red;
+}
