@@ -1,1 +1,1 @@
-- DEMO ['https://ruslan-oss-max0.github.io/Restricted-Teaxtarea/']
+- DEMO: [Live Demo](https://ruslan-oss-max0.github.io/Restricted-Teaxtarea/)
